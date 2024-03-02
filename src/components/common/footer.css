@@ -1,0 +1,33 @@
+.footer-title{
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+footer div{
+    font-size: 15px;
+    color: gray;
+}
+.col-3{
+    border-left: 1px solid goldenrod;
+}
+li{
+    list-style: none;
+    color: white;
+}
+span{
+    margin-right: 10px;
+    font-size: 20px;
+}
+.footer-bottom{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    padding: 5px;
+    margin-bottom: -10px;
+}
+a{
+    text-decoration: none;
+}
